@@ -1,4 +1,4 @@
-### 集运专用sftp镜像，可升级openssh版本
+### sftp专用镜像，可升级openssh版本
 
 #### 更换openssh版本
 修改脚本中openssh版本号打包即可 /update/update_openssh.sh
