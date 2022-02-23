@@ -1,6 +1,6 @@
 From centos:7
 
-LABEL maintainer="yixin.hu@139.com"
+LABEL maintainer="skywin886@139.com"
 
 RUN yum -y install wget
 COPY update/* /tmp/
